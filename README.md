@@ -14,10 +14,12 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - Azure DevOps
 - Jenkins
 - Gitlab
-- Ansible
+- Github CI/CD
 
 ### Source Code Management (SCM)
 - GIT
+- Bitbucket
+- Azure Repos
 
 
 ### Cloud Platforms
@@ -29,12 +31,14 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - Terraform
 - Packer
 - ARM Template
+- Ansible
 
 ### Build Tools
 - Maven
 - Gradle
 - ANT
 - MS Build
+- Xcode
 
 ### Code Analysis & Security
 - SonarQube
@@ -75,6 +79,8 @@ Here's a glimpse of the skills and technologies I bring to the table:
   - Helm
   - ACR (Azure Container Registry)
   - ECR (Amazon Elastic Container Registry)
+  - Nexus
+  - JFrog
 
 ## About Me
 
